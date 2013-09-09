@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_01 (Sun Microsystems Inc.)
+Class-Path: mahout-core-0.7.jar mahout-examples-0.7-job.jar
+
