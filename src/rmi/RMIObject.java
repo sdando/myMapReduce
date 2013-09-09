@@ -6,7 +6,7 @@ import java.rmi.server.UnicastRemoteObject;
 
 public class RMIObject extends UnicastRemoteObject implements RMIInterface {
 
-    public static final String RMI_URL="rmi://Namenode/printMes";	
+    public static final String RMI_URL="rmi://Namenode/printMes";
 	public RMIObject() throws RemoteException{}
 	@Override
 	public String printMes() throws RemoteException{
